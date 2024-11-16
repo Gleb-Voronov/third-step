@@ -1,3 +1,3 @@
 # third-step
 
-First project
+First projects
